@@ -16,5 +16,4 @@ Each one is live. The source is private for now; I'm happy to walk through any o
 ## About me
 
 - B.S. in Information Technology and Systems, University of Texas at Dallas
-- Interested in product, data and the place where the two meet
 - [LinkedIn](https://www.linkedin.com/in/danish-premani/)
